@@ -1,0 +1,124 @@
+.Boton-add-cesta {
+    box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #0052e0 5%, #3e8ef0 100%);
+	background-color:#0052e0;
+	border-radius:21px;
+	border:1px solid #361670;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:4px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.Boton-add-cesta:hover {
+	background:linear-gradient(to bottom, #3e8ef0 5%, #0052e0 100%);
+	background-color:#3e8ef0;
+}
+.Boton-add-cesta:active {
+	position:relative;
+	top:1px;
+}
+
+.Boton-comprar {
+	box-shadow: 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:42px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+}
+.Boton-comprar:hover {
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background-color:#ffab23;
+}
+.Boton-comprar:active {
+	position:relative;
+	top:1px;
+}
+
+.btn-delete {
+	box-shadow:inset 0px 1px 0px 0px #cf866c;
+	background:linear-gradient(to bottom, #d0451b 5%, #bc3315 100%);
+	background-color:#d0451b;
+	border-radius:42px;
+	border:1px solid #942911;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:5px 5px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #854629;
+}
+.btn-delete:hover {
+	background:linear-gradient(to bottom, #bc3315 5%, #d0451b 100%);
+	background-color:#bc3315;
+}
+.btn-delete:active {
+	position:relative;
+	top:1px;
+}
+
+
+.btn-pago {
+	background-color:#1ba640;
+	border-radius:15px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:6px 19px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn-pago:hover {
+	background-color:#5cbf2a;
+}
+.btn-pago:active {
+	position:relative;
+	top:1px;
+}
+
+.btn-add-car {
+	background-color:#44c767;
+	border-radius:39px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:18px 69px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn-add-car:hover {
+	background-color:#5cbf2a;
+}
+.btn-add-car:active {
+	position:relative;
+	top:1px;
+}
+
+ 
+        
+        
+
+ 
+
+     
+       
